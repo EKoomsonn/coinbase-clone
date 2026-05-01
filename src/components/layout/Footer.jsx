@@ -136,8 +136,11 @@ function Footer() {
 
         {/* BOTTOM COPYRIGHT */}
         <div className="border-t mt-16 pt-6 text-center text-sm text-gray-500">
-          © 2026 Coinbase Clone. All rights reserved.
+          EltonCryptoApp. All rights reserved.
         </div>
+        <div className="bg-yellow-400 text-black text-center text-sm py-2 px-4 font-medium">
+        ⚠️ This is a demo project and users should not enter real personal information.
+      </div>
 
       </div>
     </footer>
